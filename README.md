@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Prerequisites:
+Make sure Node.js and Angular CLI are installed. Information can be found below links
+
+Nodejs: https://nodejs.org/
+
+[Angular CLI](https://cli.angular.io/)
+
+## What to install to run this project
+
+ng add @ngrx/schematics@latest
